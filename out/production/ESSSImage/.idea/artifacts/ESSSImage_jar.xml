@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="ESSSImage:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ESSSImage_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ESSSImage.jar">
+        <element id="module-output" name="ESSSImage" />
+      </element>
+    </root>
+  </artifact>
+</component>
